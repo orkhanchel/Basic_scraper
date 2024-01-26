@@ -1,3 +1,5 @@
+'''hello world'''
+
 import requests
 from get_prices_from_page import get_prices, get_max_price
 from selenium import webdriver
